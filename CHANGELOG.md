@@ -1,0 +1,72 @@
+## 0.1.0 (十二月 08, 2019)
+  - updated README for modification comments
+  - updated .gitignore and added bump-version.sh for easier versioning
+  - Merge pull request #17 from yl-1993/dev
+  - consistent check
+  - simply det test
+  - update README
+  - compatible with np 1.16.4
+  - update pipeline
+  - update reqs
+  - download data by gdown
+  - Merge branch 'master' of github.com:yl-1993/learn-to-cluster
+  - add pipeline fig
+  - support diff gcns
+  - more training epochs
+  - more training epochs
+  - cfg with better results
+  - increase epochs
+  - Merge pull request #6 from yl-1993/dev
+  - update cfg
+  - modify filename
+  - pad to [[A, 0], [0, I]]
+  - assert D > 0
+  - update README
+  - update config & script
+  - add training
+  - support bs>1
+  - couple model with loss
+  - refactor
+  - rename
+  - note that CDP (single model) is used in comparison
+  - generate iter proposals
+  - minor
+  - do not run approx_order bsl by default
+  - Merge branch 'dev' of github.com:yl-1993/learn-to-cluster into dev
+  - use standard ctg_mat from sklearn
+  - refer graph to CDP
+  - add YTBFace data
+  - add download link of lists
+  - update training cfgs
+  - add precomputed knns
+  - change proposal path
+  - change knn folder
+  - update baseline
+  - mv knn to utils
+  - add baseline
+  - mv knn-related to knn.py
+  - keep script consistent
+  - typo
+  - rename ub
+  - rename method to metric
+  - update benchmark links
+  - add benchmarks
+  - set inst_num to -1 when label_path is missing
+  - allow label_path missing
+  - format
+  - examples for gcn upper bound
+  - update README
+  - update README
+  - update README
+  - update README
+  - add pipeline script
+  - filter clusters
+  - update results
+  - sparse mm when dim is 2
+  - update README
+  - modify pred path
+  - use faiss as default knn method
+  - change deoverlap folder
+  - init framework
+  - Initial commit
+
