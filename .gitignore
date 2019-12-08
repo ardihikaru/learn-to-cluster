@@ -4,6 +4,19 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore Python 3 Environment
+penv/
+__pycache__/
+
+# Ignore Jupyter Notebook logs
+.ipynb_checkpoints
+
+# Ignore VSCode Settings
+.vscode/
+
+# Ignore PyCharm Project Configurations
+.idea/
+
 # C extensions
 *.so
 
