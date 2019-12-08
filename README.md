@@ -8,6 +8,7 @@
 [Ardihikaru](https://github.com/ardihikaru) Comments of the modifications:
 - Minor modification of .gitignore for development purpose
 - Added versioning file, `bump-version.sh`
+- 
 
 ## Requirements
 * Python >= 3.6

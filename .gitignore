@@ -4,6 +4,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore dataset in folder "data"
+data/
+
 # Ignore Python 3 Environment
 penv/
 __pycache__/
