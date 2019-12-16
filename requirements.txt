@@ -7,3 +7,5 @@ easydict
 python-igraph
 cairocffi
 fastcluster
+scipy
+scikit-learn

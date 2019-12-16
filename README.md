@@ -8,7 +8,12 @@
 [Ardihikaru](https://github.com/ardihikaru) Comments of the modifications:
 - Minor modification of .gitignore for development purpose
 - Added versioning file, `bump-version.sh`
-- 
+- In Conda, install python-igraph: `conda install -c conda-forge python-igraph`
+- Additional Dependencies:
+    - ModuleNotFoundError: No module named 'terminaltables'
+    - https://github.com/pytorch/vision
+    - scipy
+    - 
 
 ## Requirements
 * Python >= 3.6
